@@ -3,8 +3,8 @@ name: GSI Build
 on: [push]
 
 env:
-  ROM_URL: https://pilotfiber.dl.sourceforge.net/project/NusantaraProject//jasmine_sprout/Nusantara_v1.0-jasmine_sprout-14082020-OFFICIAL-0602.zip
-  ROM_NAME: Generic:Nusantara_v1
+  ROM_URL: https://aablzpjaephbx664cho5os3arznw6888.node.ppio.cloud:48106/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu17/9.2.0.3/cn/20220424185818/498fa997/update.zip?f_ver=v1&max_age=7776000&r=MAIZRDl3aVoeBxRUT1MTJnYbCF0wOGgWFwNJf1FADDQ5BAgbDCE%2FGB1BC1xRSBRyb1lUGnhjdltLQQVXFwBRcWpGWQZ%2BfH5AQF9eFgwLWSU5T1QDZTg2ERkaAxdCWxE3BghaKSkoRBceA1dbVg9y&ppiouid=62b378c222ab8400011120dc741a5de8&ppio_auth=62b378c2__0_e6d3b5c95b469244f98a0f035198f163
+  ROM_NAME: Flyme
   ZIP_NAME: Nusantara_v1
   TZ: America/Sao_Paulo
   MIR: gof
